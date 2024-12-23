@@ -27,8 +27,24 @@
 Окончил курс " JavaScript - полный курс с нуля до результата"<br>
 В настоящее время перешел к изучению TapeScript на очереди React  и Vue
 <hr>
+<h2>ПРОЕКТЫ</h2>
 
-
+<b>Проект№1. "Uber"</b> <br>
+Адаптивная верстка сайта по макету Figma.<br>
+Реализована адаптация с 1900 до 320 пикселей. <br>
+Были использованны технологии Html, Css, Bootstrap. Препроцессор Sass.<br>
+<b>Проект№2. "Pulsometr"</b> <br>
+Верстка сайта по макету Figma.<br>
+Были использованны технологии Html, Css, JavaScript, jQuery Препроцессор Sass.<br>
+Для слайдера использовалась библиотека <b>slick</b><br>
+Отправка запросов на сервер. Разработана на php<br>
+<b>Проект№3. "Mountains"</b> <br>
+Адаптивная верстка сайта по макету Figma.<br>
+Были использованны технологии Html, Css, (Grid , flex-box). Препроцессор Sass.<br>
+<b>Проект№4. "Delivery_Vue"</b> <br>
+Адаптивная верстка сайта по макету Figma.<br>
+Реализована адаптация с 1900 до 320 пикселей. <br>
+Были использованны технологии Html, Css, JavaScript, первая проба програмирования на Vue<br>
 <!---
 KaZaKDon/KaZaKDon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
