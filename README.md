@@ -14,6 +14,7 @@
  - Использование инструментов разработки и отладки — Chrome DevTools, ESLint, Prettier.<br>
  - Cеть — Основы HTTP, GET/POST запросы, обработка JSON.<br>
  - Работа с библиотеками для запросов — Axios, Fetch API <br>
+ - Освоил базу React. Хуки. Изучаю Redux. Но на данный момент опыта маловато.
  <br>
  <h3>Личные</h3>
  * Работоспособность<br>
@@ -25,7 +26,8 @@
 <h2>ОБУЧЕНИЕ</h2>
 Окончил курс " Верстальщик сайтов - Htyml, Css, Bootstrap, JavaScript"<br>
 Окончил курс " JavaScript - полный курс с нуля до результата"<br>
-В настоящее время перешел к изучению TapeScript на очереди React  и Vue
+Проходил обучение в Урбан Университет. <br>
+Курсы JS React в GLO- академии.<br>
 <hr>
 <h2>ПРОЕКТЫ</h2>
 
@@ -41,10 +43,22 @@
 <b>Проект№3. "Mountains"</b> <br>
 Адаптивная верстка сайта по макету Figma.<br>
 Были использованны технологии Html, Css, (Grid , flex-box). Препроцессор Sass.<br>
-<b>Проект№4. "Delivery_Vue"</b> <br>
+<b>Проект№4. "middle_diplomGlo"</b> <br>
 Адаптивная верстка сайта по макету Figma.<br>
-Реализована адаптация с 1900 до 320 пикселей. <br>
-Были использованны технологии Html, Css, JavaScript, первая проба програмирования на Vue<br>
+Были использованны технологии Html, Css, JavaScript,<br>
+Слайдеры, калькуляторы, отчет времени(возможно закончился от времени), модалки, отправка форм.<br>
+<b>Проект№5. "museum"</b> <br>
+Были использованны технологии Html, Css, JavaScript,<br>
+Интерактивная карта с нанесенными музейными, природными объектами края<br>
+<b>Проект№6. "todoReact"</b> <br>
+Были использованны технологии Html, Css, JavaScript, React<br>
+Todolist на React. Добавление, редактирование, фильтрация.<br>
+<b>Проект№7. "Marvel_hook Marvel_layout"</b> <br>
+Эдентичные пректы с разными адресами для fetch завпросов.<br>
+Были использованны технологии Html, Css, JavaScript, React<br>
+Выдача карточек, добавление, переходы.<br>
+Работа с хуками и useReducer, Formik, Yup, React Transition Group.
+Marvel_hook Marvel_layout
 <!---
 KaZaKDon/KaZaKDon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
