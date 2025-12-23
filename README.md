@@ -54,7 +54,7 @@
 Были использованны технологии Html, Css, JavaScript, React<br>
 Todolist на React. Добавление, редактирование, фильтрация.<br>
 <b>Проект№7. "Marvel_hook Marvel_layout"</b> <br>
-Эдентичные пректы с разными адресами для fetch завпросов.<br>
+Идентичные пректы с разными адресами для fetch завпросов.<br>
 Были использованны технологии Html, Css, JavaScript, React<br>
 Выдача карточек, добавление, переходы.<br>
 Работа с хуками и useReducer, Formik, Yup, React Transition Group.
